@@ -1,0 +1,224 @@
+#hildrednbaker @media (max-width: 450px) {
+  .x .c1-6u {
+    background-image: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0) 0%,
+        rgba(0, 0, 0, 0) 100%
+      ),
+      url("//img1.wsimg.com/isteam/ip/7d7cf7a8-eb72-439f-b950-c9feae939735/IMG_0095.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:450,m");
+  }
+}
+@media (max-width: 450px) and (-webkit-min-device-pixel-ratio: 2),
+  (max-width: 450px) and (min-resolution: 192dpi) {
+  .x .c1-6v {
+    background-image: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0) 0%,
+        rgba(0, 0, 0, 0) 100%
+      ),
+      url("//img1.wsimg.com/isteam/ip/7d7cf7a8-eb72-439f-b950-c9feae939735/IMG_0095.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:900,m");
+  }
+}
+@media (max-width: 450px) and (-webkit-min-device-pixel-ratio: 3),
+  (max-width: 450px) and (min-resolution: 288dpi) {
+  .x .c1-6w {
+    background-image: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0) 0%,
+        rgba(0, 0, 0, 0) 100%
+      ),
+      url("//img1.wsimg.com/isteam/ip/7d7cf7a8-eb72-439f-b950-c9feae939735/IMG_0095.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1350,m");
+  }
+}
+@media (min-width: 451px) and (max-width: 767px) {
+  .x .c1-6x {
+    background-image: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0) 0%,
+        rgba(0, 0, 0, 0) 100%
+      ),
+      url("//img1.wsimg.com/isteam/ip/7d7cf7a8-eb72-439f-b950-c9feae939735/IMG_0095.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:767,m");
+  }
+}
+@media (min-width: 451px) and (max-width: 767px) and (-webkit-min-device-pixel-ratio: 2),
+  (min-width: 451px) and (max-width: 767px) and (min-resolution: 192dpi) {
+  .x .c1-6y {
+    background-image: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0) 0%,
+        rgba(0, 0, 0, 0) 100%
+      ),
+      url("//img1.wsimg.com/isteam/ip/7d7cf7a8-eb72-439f-b950-c9feae939735/IMG_0095.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1534,m");
+  }
+}
+@media (min-width: 451px) and (max-width: 767px) and (-webkit-min-device-pixel-ratio: 3),
+  (min-width: 451px) and (max-width: 767px) and (min-resolution: 288dpi) {
+  .x .c1-6z {
+    background-image: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0) 0%,
+        rgba(0, 0, 0, 0) 100%
+      ),
+      url("//img1.wsimg.com/isteam/ip/7d7cf7a8-eb72-439f-b950-c9feae939735/IMG_0095.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:2301,m");
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .x .c1-70 {
+    background-image: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0) 0%,
+        rgba(0, 0, 0, 0) 100%
+      ),
+      url("//img1.wsimg.com/isteam/ip/7d7cf7a8-eb72-439f-b950-c9feae939735/IMG_0095.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1023,m");
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) and (-webkit-min-device-pixel-ratio: 2),
+  (min-width: 768px) and (max-width: 1023px) and (min-resolution: 192dpi) {
+  .x .c1-71 {
+    background-image: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0) 0%,
+        rgba(0, 0, 0, 0) 100%
+      ),
+      url("//img1.wsimg.com/isteam/ip/7d7cf7a8-eb72-439f-b950-c9feae939735/IMG_0095.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:2046,m");
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) and (-webkit-min-device-pixel-ratio: 3),
+  (min-width: 768px) and (max-width: 1023px) and (min-resolution: 288dpi) {
+  .x .c1-72 {
+    background-image: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0) 0%,
+        rgba(0, 0, 0, 0) 100%
+      ),
+      url("//img1.wsimg.com/isteam/ip/7d7cf7a8-eb72-439f-b950-c9feae939735/IMG_0095.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:3069,m");
+  }
+}
+@media (min-width: 1024px) and (max-width: 1279px) {
+  .x .c1-73 {
+    background-image: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0) 0%,
+        rgba(0, 0, 0, 0) 100%
+      ),
+      url("//img1.wsimg.com/isteam/ip/7d7cf7a8-eb72-439f-b950-c9feae939735/IMG_0095.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1279,m");
+  }
+}
+@media (min-width: 1024px) and (max-width: 1279px) and (-webkit-min-device-pixel-ratio: 2),
+  (min-width: 1024px) and (max-width: 1279px) and (min-resolution: 192dpi) {
+  .x .c1-74 {
+    background-image: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0) 0%,
+        rgba(0, 0, 0, 0) 100%
+      ),
+      url("//img1.wsimg.com/isteam/ip/7d7cf7a8-eb72-439f-b950-c9feae939735/IMG_0095.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:2558,m");
+  }
+}
+@media (min-width: 1024px) and (max-width: 1279px) and (-webkit-min-device-pixel-ratio: 3),
+  (min-width: 1024px) and (max-width: 1279px) and (min-resolution: 288dpi) {
+  .x .c1-75 {
+    background-image: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0) 0%,
+        rgba(0, 0, 0, 0) 100%
+      ),
+      url("//img1.wsimg.com/isteam/ip/7d7cf7a8-eb72-439f-b950-c9feae939735/IMG_0095.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:3837,m");
+  }
+}
+@media (min-width: 1280px) and (max-width: 1535px) {
+  .x .c1-76 {
+    background-image: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0) 0%,
+        rgba(0, 0, 0, 0) 100%
+      ),
+      url("//img1.wsimg.com/isteam/ip/7d7cf7a8-eb72-439f-b950-c9feae939735/IMG_0095.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1535,m");
+  }
+}
+@media (min-width: 1280px) and (max-width: 1535px) and (-webkit-min-device-pixel-ratio: 2),
+  (min-width: 1280px) and (max-width: 1535px) and (min-resolution: 192dpi) {
+  .x .c1-77 {
+    background-image: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0) 0%,
+        rgba(0, 0, 0, 0) 100%
+      ),
+      url("//img1.wsimg.com/isteam/ip/7d7cf7a8-eb72-439f-b950-c9feae939735/IMG_0095.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:3070,m");
+  }
+}
+@media (min-width: 1280px) and (max-width: 1535px) and (-webkit-min-device-pixel-ratio: 3),
+  (min-width: 1280px) and (max-width: 1535px) and (min-resolution: 288dpi) {
+  .x .c1-78 {
+    background-image: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0) 0%,
+        rgba(0, 0, 0, 0) 100%
+      ),
+      url("//img1.wsimg.com/isteam/ip/7d7cf7a8-eb72-439f-b950-c9feae939735/IMG_0095.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:4605,m");
+  }
+}
+@media (min-width: 1536px) and (max-width: 1920px) {
+  .x .c1-79 {
+    background-image: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0) 0%,
+        rgba(0, 0, 0, 0) 100%
+      ),
+      url("//img1.wsimg.com/isteam/ip/7d7cf7a8-eb72-439f-b950-c9feae939735/IMG_0095.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1920,m");
+  }
+}
+@media (min-width: 1536px) and (max-width: 1920px) and (-webkit-min-device-pixel-ratio: 2),
+  (min-width: 1536px) and (max-width: 1920px) and (min-resolution: 192dpi) {
+  .x .c1-7a {
+    background-image: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0) 0%,
+        rgba(0, 0, 0, 0) 100%
+      ),
+      url("//img1.wsimg.com/isteam/ip/7d7cf7a8-eb72-439f-b950-c9feae939735/IMG_0095.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:3840,m");
+  }
+}
+@media (min-width: 1536px) and (max-width: 1920px) and (-webkit-min-device-pixel-ratio: 3),
+  (min-width: 1536px) and (max-width: 1920px) and (min-resolution: 288dpi) {
+  .x .c1-7b {
+    background-image: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0) 0%,
+        rgba(0, 0, 0, 0) 100%
+      ),
+      url("//img1.wsimg.com/isteam/ip/7d7cf7a8-eb72-439f-b950-c9feae939735/IMG_0095.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:5760,m");
+  }
+}
+@media (min-width: 1921px) {
+  .x .c1-7c {
+    background-image: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0) 0%,
+        rgba(0, 0, 0, 0) 100%
+      ),
+      url("//img1.wsimg.com/isteam/ip/7d7cf7a8-eb72-439f-b950-c9feae939735/IMG_0095.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:100%25");
+  }
+}
+@media (min-width: 1921px) and (-webkit-min-device-pixel-ratio: 2),
+  (min-width: 1921px) and (min-resolution: 192dpi) {
+  .x .c1-7d {
+    background-image: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0) 0%,
+        rgba(0, 0, 0, 0) 100%
+      ),
+      url("//img1.wsimg.com/isteam/ip/7d7cf7a8-eb72-439f-b950-c9feae939735/IMG_0095.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:100%25");
+  }
+}
+@media (min-width: 1921px) and (-webkit-min-device-pixel-ratio: 3),
+  (min-width: 1921px) and (min-resolution: 288dpi) {
+  .x .c1-7e {
+    background-image: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0) 0%,
+        rgba(0, 0, 0, 0) 100%
+      ),
+      url("//img1.wsimg.com/isteam/ip/7d7cf7a8-eb72-439f-b950-c9feae939735/IMG_0095.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:100%25");
+  }
+}
