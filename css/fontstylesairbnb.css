@@ -15,7 +15,7 @@ SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url("assets/fonts/Montserrat-Bold.ttf") format("ttf");
+  src: url("/assets/fonts/Montserrat-Bold.ttf") format("ttf");
 }
 /* Regular */
 @font-face {
@@ -23,7 +23,7 @@ SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url("assets/fonts/Montserrat-Regular.ttf") format("ttf");
+  src: url("/assets/fonts/Montserrat-Regular.ttf") format("ttf");
 }
 /* latin */
 @font-face {
