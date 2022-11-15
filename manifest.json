@@ -2,7 +2,7 @@
   "name": "The Staywell",
   "short_name": "Staywell",
   "description":"Inexpensive Airbnb with Common-Sense Amenities near The Ark Encounter."
-  "start_url": "/staywellindex.html",
+  "start_url": "/site.webmanifest",
   "display": "standalone",
   "background_color": "",
   "theme_color": "",
