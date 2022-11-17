@@ -7,7 +7,7 @@
     <title>The Staywell</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <meta name="description" content="Inexpensive Airbnb with Common-Sense Amenities near The Ark Encounter. We provide clean rooms and are within minutes of
-    several restaurants, with Piddle Park across the street. Bring your fishing gear, play some games, or just relax!" />
+    several restaurants, with Piddle Park across the street. Bring your fishing gear, play some games, or just relax!"/>
     <meta name="author" content="The Staywell" />
     <link rel="stylesheet" href="../css/staywell.css" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
@@ -26,13 +26,13 @@
     <meta property="og:url" content="https://stayneartheark.com/" />
     <meta property="og:site_name" content="The Staywell" />
     <meta property="og:title" content="The Staywell" />
-    <meta property="og:description" content="Stay well at &nbsp;The Staywell - only 10 minutes to The Ark Encounter!" />
+    <meta property="og:description" content="Stay well at &nbsp;The Staywell - only 10 minutes to The Ark Encounter!"/>
     <meta property="og:type" content="website" />
     <meta property="og:image" content="" />
     <meta property="og:locale" content="en_US" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="The Staywell" />
-    <meta name="twitter:description" content="Inexpensive Airbnb with Common-Sense Amenities near The Ark Encounter" />
+    <meta name="twitter:description" content="Inexpensive Airbnb with Common-Sense Amenities near The Ark Encounter"/>
     <meta name="twitter:image" content="" />
     <meta name="twitter:image:alt" content="" />
     <meta name="theme-color" content="#111111" />
@@ -40,15 +40,15 @@
   </head>
   <body>
     <header>
-      <nav class="primary-navigation" id="primary-navigation">
-        <ul class="menu" aria-label="Primary">
+      <nav>
+        <ul class="menu">
           <li class="logo"><a href="#"><img src="../images/header-logo.jpg" alt="The Staywell Logo" /></a></li>
           <li class="item"><a href="#">Home</a></li>
           <li class="item"><a href="#">Local Attractions</a></li>
           <li class="item"><a href="#">Amenities</a></li>
           <li class="item"><a href="#">Make Money</a></li>
           <li class="item"><a href="#">Contact Us</a></li>
-          <li class="item button" aria-controls="primary-navigation"><a href="#">Book Now</a></li>
+          <li class="item button"><a href="#">Book Now</a></li>
           <li class="toggle"><span class="bars"></span></li>
         </ul>
       </nav>
@@ -210,14 +210,25 @@
 </form>
 
 
-<!--FOOTER 2
 
+
+        <!-- <form>
+          <input type="text" class="input-field" placeholder="Your Name" />
+          <input type="email" class="input-field" placeholder="Your E-Mail" />
+          <input type="text" class="input-field" placeholder="Your Subject" />
+          <textarea
+            type="text"
+            class="input-field textarea-field"
+            placeholder="Your Message"
+          ></textarea>
+        </form>
+        <button type="button" class="btn">"Send Message"</button>
+      FOOTER 2
        <section class="footer-container">
       <footer class="footer">
         <div class="footer-left">
           <img src="../assets/images/thestaywelllogo1.png" alt="The Staywell Logo" />
         </div>
-
         <p>
           &copy; 2022 Code Kentucky (Northern). This website is maintained by:
           Hildred N. Baker
@@ -226,8 +237,7 @@
     </section>
     <script src="../js/app.js"></script>
   </body>
-</html>-->
-
+</html> -->  
 
       </div>
     </section>
@@ -235,7 +245,7 @@
       <div class="container">
         <div class="even-columns">
           <div>
-            <a href="#"> aria-label="home"><img src="images/logo.svg" alt="Manage"></a>
+            <a href="#"><img src="images/logo.svg" alt="Manage"></a>
             <ul role="list" aria-label="Social links">
               <li><a aria-label="facebook" href="#"></a></li>
               <li><a aria-label="youtube" href="#"></a></li>
@@ -265,5 +275,3 @@
         </div>
       </div>
     </footer>
-  
-  
