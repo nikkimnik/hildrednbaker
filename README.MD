@@ -19,9 +19,8 @@ Code Kentucky Project Requirements:
     1.  SPECIFIC REQUIREMENTS:
 
             a.  "Created a Responsive Menu with Javascript"
-            b.  Responsive Menu included a "Simple Hide/Show Div with CSS"
-            c.  "Stay Well at the Staywell" hero text includes a "Transition Animation Upon Arrival to the Site"
-            d.  Button hover colors "Add Transition Animation Upon Hover"
+            b.  "Stay Well at the Staywell" hero text includes a "Transition Animation Upon Arrival to the Site"
+            c.  Button hover colors "Add Transition Animation Upon Hover"
     
     Hopefully the project is visually appealing.  Design is my weakness, so I have a lady in Brazil who helps me with them.  For this project, I had her create a logo and I used the colors in the logo throughout the site.  credit: Ivana Giseli - ivanadesign123@gmail.com
 
